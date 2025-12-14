@@ -1,0 +1,5 @@
+streamlit
+streamlit-image-comparison
+folium
+streamlit-folium
+Pillow
